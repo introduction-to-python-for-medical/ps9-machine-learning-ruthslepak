@@ -1,2 +1,2 @@
-selected_features = ['MDVP:Fo(Hz)', 'MDVP:Fhi(Hz)']
+features = ['MDVP:Fo(Hz)', 'MDVP:Fhi(Hz)']
 path = '/content/my_model.joblib'
